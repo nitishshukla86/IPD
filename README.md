@@ -12,12 +12,12 @@ A face morph is created by combining the face images usually pertaining to two d
 
 <div style="text-align: center;">
   <p> Decomposition Architecture</p>
-  <img src="assets/ijcb2024-decomp.png" width="900">
+  <img src="assets/ijcb2024-arch.png" width="900">
 </div>
 
 <div style="text-align: center;">
   <p>Demorphing via Decomposition</p>
-  <img src="assets/ijcb2024-demorph.png" width="600">
+  <img src="assets/ijcb2024-demorph-arch.png" width="600">
 </div>
 </div>
 
